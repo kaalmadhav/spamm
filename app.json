@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
-      "value": "GHOULS KI MAA KE BOYFRIEND",
+      "value": "TOM",
       "required": false
     },
     "ALIVE_MSG": {
