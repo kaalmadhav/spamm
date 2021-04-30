@@ -92,7 +92,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1774050835:AAHgbZbhZSj1bgf-gf87Fra38CBi1xjbYno"
+      "value": "1704604930:AAF8fbSrFB8KFiOM6sTMxq7VSDLl8JOVoRQ"
     },
     "SUDO_USERS": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -106,7 +106,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@hellbotkeliyebot"
+      "value": "@TOM_OFFICIAL_BOT"
     },
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
